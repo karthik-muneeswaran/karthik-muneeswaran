@@ -128,52 +128,152 @@ Fun Fact:
 
 ---
 
-
 # 🏗 Engineering Expertise
 
-✅ Full Stack Development
+<table>
+<tr>
+<td align="center" width="33%">
 
-✅ Frontend Architecture
+### 🖥️ Full Stack
 
-✅ Backend Architecture
+React • Next.js • Vue • Angular
 
-✅ Distributed Systems
+Node.js • NestJS • FastAPI
 
-✅ Microservices
+</td>
 
-✅ Event-Driven Architecture
+<td align="center" width="33%">
 
-✅ System Design
+### 🏛 Architecture
 
-✅ API Design
+System Design
 
-✅ Kafka & Event Streaming
+Microservices
 
-✅ Temporal Workflows
+Distributed Systems
 
-✅ FastAPI & NestJS
+Event-Driven Architecture
 
-✅ Cloud Architecture
+</td>
 
-✅ Kubernetes
+<td align="center" width="33%">
 
-✅ Platform Engineering
+### ☁️ Cloud
 
-✅ Data Engineering
+AWS
 
-✅ Lakehouse Architecture
+Azure
 
-✅ ETL / ELT Pipelines
+Docker
 
-✅ Observability & Monitoring
+Kubernetes
 
-✅ Automated Testing
+CI/CD
 
-✅ DevOps & CI/CD
+</td>
+</tr>
 
-✅ AI Agents & Multi-Agent Systems
+<tr>
+<td align="center">
 
----
+### 📊 Data
+
+Databricks
+
+Spark
+
+Airflow
+
+Lakehouse
+
+ETL / ELT
+
+</td>
+
+<td align="center">
+
+### 📡 Messaging
+
+Kafka
+
+RabbitMQ
+
+Temporal
+
+CDC
+
+Saga Pattern
+
+</td>
+
+<td align="center">
+
+### 🤖 AI
+
+AI Agents
+
+Multi-Agent Systems
+
+LLMs
+
+Prompt Engineering
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 📈 Observability
+
+Grafana
+
+Prometheus
+
+Loki
+
+Tempo
+
+OpenTelemetry
+
+</td>
+
+<td align="center">
+
+### 🧪 Quality
+
+Automated Testing
+
+Playwright
+
+Jest
+
+Cypress
+
+RTL
+
+</td>
+
+<td align="center">
+
+### 🚀 Leadership
+
+Technical Leadership
+
+Code Reviews
+
+Mentoring
+
+Architecture Decisions
+
+</td>
+
+</tr>
+
+</table>
+
 
 # ⚡ Current Focus
 

@@ -17,266 +17,256 @@ Building scalable products, distributed systems and cloud-native platforms.
 </p>
 
 ---
-
 ## 🚀 About Me
 
 ```yaml
 Role:
-  Team Lead / Full Stack Engineer
+  Team Lead | Full Stack Engineer | Backend & Cloud Architect
+
+Experience:
+  Designing scalable applications, leading engineering teams,
+  and building cloud-native platforms across web, backend,
+  distributed systems, and data engineering.
 
 Focus:
   - Backend Architecture
+  - Frontend Engineering
   - Distributed Systems
   - Cloud Native Development
   - Platform Engineering
+  - Data Engineering
   - AI Engineering
 
 Currently Working On:
-  - Large Scale Backend Platforms
-  - Data Engineering Solutions
-  - Event Driven Architecture
-  - AI Powered Applications
+  - Enterprise Backend Platforms
+  - Data Engineering Pipelines
+  - Event-Driven Systems
+  - AI & Multi-Agent Applications
+  - Lakehouse Architecture
+  - Cloud Infrastructure
 
 Currently Learning:
-  - Kubernetes
-  - Platform Engineering
-  - AI Agents
-  - Apache Spark
-  - Databricks
+  - Advanced Kubernetes
+  - Microsoft Fabric
+  - Azure Data Platform
+  - Advanced Databricks
+  - AI Agent Frameworks
 
 Fun Fact:
-  "I enjoy solving architecture problems more than writing CRUD APIs."
+  "I enjoy designing scalable systems more than writing CRUD APIs."
 ```
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## 👨‍💻 Languages
 
-<p>
+JavaScript • TypeScript • Python • PHP • SQL • Java
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,java"/>
+---
 
-</p>
+## 🎨 Frontend
 
-### Frontend
+React.js • Next.js • Vue.js • Nuxt.js • Angular • Ionic
 
-<p>
+Redux Toolkit • Zustand • Tailwind CSS
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,redux,tailwind"/>
+Responsive UI • SSR • CSR • Component Architecture
 
-</p>
+Performance Optimization • Progressive Web Apps
 
-### Backend
+---
 
-<p>
+## ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel"/>
+Node.js • Express.js • NestJS • FastAPI • Laravel
 
-</p>
+REST APIs • GraphQL • API Gateway
 
-### Database
+Authentication • RBAC • WebSockets
 
-<p>
+Microservices • Distributed Systems
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
+---
 
-</p>
+## 🗄️ Databases
 
-### Cloud & DevOps
+PostgreSQL • MongoDB • MySQL • Redis
 
-<p>
+---
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,githubactions"/>
+## 📊 Data Engineering
 
-</p>
+Databricks
 
-### Tools
+Apache Spark
 
-<p>
+Apache Airflow
 
-<img src="https://skillicons.dev/icons?i=git,linux,postman,vscode"/>
+Pandas
 
-</p>
+Delta Lake
+
+Lakehouse Architecture
+
+Data Warehouse
+
+Data Lake
+
+ELT / ETL Pipelines
+
+Data Transformation
+
+Data Orchestration
+
+---
+
+## 📡 Messaging & Workflow
+
+Apache Kafka
+
+RabbitMQ
+
+Temporal
+
+CDC
+
+Event Streaming
+
+Asynchronous Processing
+
+Saga Pattern
+
+Outbox Pattern
+
+---
+
+## 🤖 AI Engineering
+
+AI Agents
+
+Multi-Agent Systems
+
+LLM Integrations
+
+AI Workflow Automation
+
+Prompt Engineering
+
+---
+
+## ☁️ Cloud & DevOps
+
+AWS
+
+Microsoft Azure
+
+DigitalOcean
+
+Docker
+
+Kubernetes
+
+NGINX
+
+GitHub Actions
+
+Jenkins
+
+CI/CD
+
+Infrastructure Automation
+
+---
+
+## 📈 Observability & Monitoring
+
+Grafana
+
+Prometheus
+
+Loki
+
+Tempo
+
+OpenTelemetry
+
+ELK Stack
+
+CloudWatch
+
+Distributed Tracing
+
+Metrics
+
+Logs
+
+Performance Monitoring
+
+---
+
+## 🧪 Testing & Quality
+
+Jest
+
+Playwright
+
+Cypress
+
+React Testing Library
+
+Automated Testing
+
+Integration Testing
+
+End-to-End Testing
 
 ---
 
 # 🏗 Engineering Expertise
 
-<table>
+✅ Full Stack Development
 
-<tr>
+✅ Frontend Architecture
 
-<td>
+✅ Backend Architecture
 
 ✅ Distributed Systems
 
-</td>
-
-<td>
-
 ✅ Microservices
 
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Event Driven Architecture
-
-</td>
-
-<td>
-
-✅ REST APIs
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Kafka
-
-</td>
-
-<td>
-
-✅ RabbitMQ
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Temporal
-
-</td>
-
-<td>
-
-✅ Redis
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Docker
-
-</td>
-
-<td>
-
-✅ Kubernetes
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ CI/CD
-
-</td>
-
-<td>
+✅ Event-Driven Architecture
 
 ✅ System Design
 
-</td>
+✅ API Design
 
-</tr>
+✅ Kafka & Event Streaming
 
-<tr>
+✅ Temporal Workflows
 
-<td>
-
-✅ Observability
-
-</td>
-
-<td>
+✅ FastAPI & NestJS
 
 ✅ Cloud Architecture
 
-</td>
+✅ Kubernetes
 
-</tr>
-
-<tr>
-
-<td>
+✅ Platform Engineering
 
 ✅ Data Engineering
 
-</td>
+✅ Lakehouse Architecture
 
-<td>
+✅ ETL / ELT Pipelines
 
-✅ AI Engineering
+✅ Observability & Monitoring
 
-</td>
+✅ Automated Testing
 
-</tr>
+✅ DevOps & CI/CD
 
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=20&no-frame=true"/>
-
-</p>
+✅ AI Agents & Multi-Agent Systems
 
 ---
 
@@ -284,67 +274,67 @@ Fun Fact:
 
 ```text
 🟢 Backend Architecture
-🟢 Cloud Native Applications
-🟢 Platform Engineering
-🟢 AI Engineering
-🟢 Kubernetes
-🟢 Data Engineering
+🟢 Frontend Engineering
 🟢 Distributed Systems
-🟢 Event Streaming
+🟢 Platform Engineering
+🟢 Cloud Native Applications
+🟢 Data Engineering
+🟢 AI & Multi-Agent Systems
+🟢 Event-Driven Architecture
+🟢 Kubernetes
+🟢 Observability
 ```
 
 ---
 
 # 📂 Featured Projects
 
-### 🚀 Enquiry Hub Backend
+## 🚀 Enquiry Hub Backend
 
-Enterprise-grade backend platform with REST APIs, GraphQL, monitoring, and scalable architecture.
+Enterprise-grade backend platform featuring REST APIs, GraphQL, authentication, monitoring, and scalable architecture.
 
-**Tech**
+**Tech Stack**
 
-Node.js • Express • PostgreSQL • Redis • Docker • Grafana
-
----
-
-### 📊 Data Engineering Platform
-
-Large-scale data processing platform built with FastAPI, Temporal, Kafka, PostgreSQL, and MinIO.
-
-**Tech**
-
-FastAPI • Kafka • Temporal • PostgreSQL • MinIO • React
+Node.js • Express • PostgreSQL • Redis • Docker • Grafana • JWT • Swagger
 
 ---
 
-### 🌍 Full Stack Applications
+## 📊 Data Engineering Platform
 
-Modern web applications with scalable architecture and cloud deployment.
+Large-scale data processing platform for workflow orchestration, event streaming, and analytics.
 
-**Stack**
+**Tech Stack**
 
-React • Next.js • Node.js • NestJS • Laravel
+FastAPI • Temporal • Kafka • PostgreSQL • MinIO • React • Docker
 
 ---
 
-# 📚 Interests
+## 🌍 Enterprise Full Stack Applications
 
+Production-ready web applications with scalable frontend, backend, cloud deployment, and DevOps automation.
+
+**Tech Stack**
+
+React • Next.js • Node.js • NestJS • Laravel • PostgreSQL • Docker
+
+---
+
+# 📚 Areas of Interest
+
+- Backend Engineering
+- Frontend Architecture
 - Distributed Systems
-- Backend Architecture
-- Event Driven Systems
 - Platform Engineering
-- AI Agents
-- Large Scale APIs
-- DevOps
-- Observability
+- Cloud Native Development
 - Data Engineering
-- Cloud Infrastructure
+- AI Agents & Multi-Agent Systems
+- Event-Driven Architecture
+- System Design
+- DevOps Automation
+- Observability & Monitoring
+- Scalable APIs
 
 ---
-
-# 🌐 Connect
-
-<p>
 
 <a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>

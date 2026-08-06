@@ -130,149 +130,18 @@ Fun Fact:
 
 # 🏗 Engineering Expertise
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🖥️ Full Stack
-
-React • Next.js • Vue • Angular
-
-Node.js • NestJS • FastAPI
-
-</td>
-
-<td align="center" width="33%">
-
-### 🏛 Architecture
-
-System Design
-
-Microservices
-
-Distributed Systems
-
-Event-Driven Architecture
-
-</td>
-
-<td align="center" width="33%">
-
-### ☁️ Cloud
-
-AWS
-
-Azure
-
-Docker
-
-Kubernetes
-
-CI/CD
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 📊 Data
-
-Databricks
-
-Spark
-
-Airflow
-
-Lakehouse
-
-ETL / ELT
-
-</td>
-
-<td align="center">
-
-### 📡 Messaging
-
-Kafka
-
-RabbitMQ
-
-Temporal
-
-CDC
-
-Saga Pattern
-
-</td>
-
-<td align="center">
-
-### 🤖 AI
-
-AI Agents
-
-Multi-Agent Systems
-
-LLMs
-
-Prompt Engineering
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 📈 Observability
-
-Grafana
-
-Prometheus
-
-Loki
-
-Tempo
-
-OpenTelemetry
-
-</td>
-
-<td align="center">
-
-### 🧪 Quality
-
-Automated Testing
-
-Playwright
-
-Jest
-
-Cypress
-
-RTL
-
-</td>
-
-<td align="center">
-
-### 🚀 Leadership
-
-Technical Leadership
-
-Code Reviews
-
-Mentoring
-
-Architecture Decisions
-
-</td>
-
-</tr>
-
-</table>
+| Domain | Expertise |
+|---------|-----------|
+| 🎨 Frontend | React • Next.js • Angular • Vue • Ionic • Performance Optimization |
+| ⚙️ Backend | Node.js • NestJS • FastAPI • Laravel • GraphQL • REST APIs |
+| 🏛 Architecture | Distributed Systems • Microservices • Event-Driven • System Design |
+| 📡 Messaging | Kafka • RabbitMQ • Temporal • CDC • Event Streaming |
+| 📊 Data Engineering | Databricks • Spark • Airflow • Pandas • ETL/ELT • Lakehouse |
+| ☁️ Cloud & DevOps | AWS • Azure • Docker • Kubernetes • GitHub Actions • Jenkins |
+| 📈 Observability | Grafana • Prometheus • Loki • Tempo • OpenTelemetry • ELK |
+| 🧪 Quality | Jest • Playwright • Cypress • Automated Testing • CI/CD |
+| 🤖 AI | AI Agents • Multi-Agent Systems • LLM Integrations • Prompt Engineering |
+| 👥 Leadership | Team Leadership • Architecture Reviews • Mentoring • Technical Strategy |
 
 
 # ⚡ Current Focus

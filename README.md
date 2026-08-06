@@ -47,171 +47,87 @@ Fun Fact:
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
-## 👨‍💻 Languages
+<div align="center">
 
-JavaScript • TypeScript • Python • PHP • SQL • Java
+### 👨‍💻 Languages
 
----
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java" />
 
-## 🎨 Frontend
+### 🎨 Frontend
 
-React.js • Next.js • Vue.js • Nuxt.js • Angular • Ionic
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,redux,tailwind,html,css" />
 
-Redux Toolkit • Zustand • Tailwind CSS
+### ⚙️ Backend
 
-Responsive UI • SSR • CSR • Component Architecture
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,laravel" />
 
-Performance Optimization • Progressive Web Apps
+### 🗄️ Databases
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 
-## ⚙️ Backend
+### ☁️ Cloud & DevOps
 
-Node.js • Express.js • NestJS • FastAPI • Laravel
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions,nginx,git,linux" />
 
-REST APIs • GraphQL • API Gateway
+### 📊 Data Engineering
 
-Authentication • RBAC • WebSockets
+<p>
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lakehouse-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Lake-0B7285?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Warehouse-5F3DC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-228BE6?style=for-the-badge"/>
+</p>
 
-Microservices • Distributed Systems
+### 📡 Messaging & Workflow
 
----
+<p>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white"/>
+<img src="https://img.shields.io/badge/CDC-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event%20Streaming-6F42C1?style=for-the-badge"/>
+</p>
 
-## 🗄️ Databases
+### 🤖 AI Engineering
 
-PostgreSQL • MongoDB • MySQL • Redis
+<p>
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-059669?style=for-the-badge"/>
+</p>
 
----
+### 📈 Observability & Monitoring
 
-## 📊 Data Engineering
+<p>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tempo-6E44FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-5A2CA0?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-Databricks
+### 🧪 Testing
 
-Apache Spark
+<p>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+</p>
 
-Apache Airflow
-
-Pandas
-
-Delta Lake
-
-Lakehouse Architecture
-
-Data Warehouse
-
-Data Lake
-
-ELT / ETL Pipelines
-
-Data Transformation
-
-Data Orchestration
-
----
-
-## 📡 Messaging & Workflow
-
-Apache Kafka
-
-RabbitMQ
-
-Temporal
-
-CDC
-
-Event Streaming
-
-Asynchronous Processing
-
-Saga Pattern
-
-Outbox Pattern
+</div>
 
 ---
 
-## 🤖 AI Engineering
-
-AI Agents
-
-Multi-Agent Systems
-
-LLM Integrations
-
-AI Workflow Automation
-
-Prompt Engineering
-
----
-
-## ☁️ Cloud & DevOps
-
-AWS
-
-Microsoft Azure
-
-DigitalOcean
-
-Docker
-
-Kubernetes
-
-NGINX
-
-GitHub Actions
-
-Jenkins
-
-CI/CD
-
-Infrastructure Automation
-
----
-
-## 📈 Observability & Monitoring
-
-Grafana
-
-Prometheus
-
-Loki
-
-Tempo
-
-OpenTelemetry
-
-ELK Stack
-
-CloudWatch
-
-Distributed Tracing
-
-Metrics
-
-Logs
-
-Performance Monitoring
-
----
-
-## 🧪 Testing & Quality
-
-Jest
-
-Playwright
-
-Cypress
-
-React Testing Library
-
-Automated Testing
-
-Integration Testing
-
-End-to-End Testing
-
----
 
 # 🏗 Engineering Expertise
 

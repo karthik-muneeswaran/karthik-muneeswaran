@@ -41,13 +41,6 @@ Currently Working On:
   - Lakehouse Architecture
   - Cloud Infrastructure
 
-Currently Learning:
-  - Advanced Kubernetes
-  - Microsoft Fabric
-  - Azure Data Platform
-  - Advanced Databricks
-  - AI Agent Frameworks
-
 Fun Fact:
   "I enjoy designing scalable systems more than writing CRUD APIs."
 ```

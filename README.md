@@ -4,10 +4,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Karthik%20Muneeswaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Scalable%20Systems%20%7C%20Backend%20Architecture%20%7C%20Cloud%20Native&descAlignY=58"/>
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Karthik Muneeswaran
-</h1>
-
 <h3 align="center">
 Team Lead • Full Stack Engineer • Backend Architect • Cloud Engineer
 </h3>

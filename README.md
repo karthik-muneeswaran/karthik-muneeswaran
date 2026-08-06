@@ -165,13 +165,17 @@ Fun Fact:
 🟢 Observability
 ```
 
----
-
 # 📂 Featured Projects
 
 ## 🚀 Enquiry Hub Backend
 
 Enterprise-grade backend platform featuring REST APIs, GraphQL, authentication, monitoring, and scalable architecture.
+
+**Highlights**
+- REST & GraphQL APIs
+- Authentication & Authorization
+- Production Monitoring
+- Scalable Backend Architecture
 
 **Tech Stack**
 
@@ -179,25 +183,72 @@ Node.js • Express • PostgreSQL • Redis • Docker • Grafana • JWT • 
 
 ---
 
-## 📊 Data Engineering Platform
+## 📊 AI Auditing Platform
 
-Large-scale data processing platform for workflow orchestration, event streaming, and analytics.
+An enterprise AI-powered auditing platform for monitoring, validating, and analyzing data pipelines and AI workflows. Built with modern data engineering practices, RAG architecture, and AI agents to deliver intelligent insights and operational visibility.
+
+**Highlights**
+- AI-powered auditing & analytics
+- RAG-based knowledge retrieval
+- Data Lake integration
+- AI Agent orchestration
+- Real-time monitoring & observability
 
 **Tech Stack**
 
-FastAPI • Temporal • Kafka • PostgreSQL • MinIO • React • Docker
+Databricks • FastAPI • Streamlit • Hermes Agent • Genie • Data Lake • Apache Kafka • RAG • Grafana • Prometheus • Tempo • Loki
+
+---
+
+## 💬 Production-Ready Messaging Platform
+
+A scalable real-time messaging platform designed for production environments with high availability, event-driven communication, and mobile-first architecture.
+
+**Highlights**
+- Real-time messaging
+- Push notifications
+- High availability
+- Event-driven architecture
+- Kubernetes deployment
+- Production-scale backend
+
+**Tech Stack**
+
+React Native • Laravel • Ably • PostgreSQL • MongoDB • Apache Kafka • Kubernetes
+
+---
+
+## 🏭 Data Engineering Platform
+
+A large-scale data engineering platform for orchestrating workflows, processing data pipelines, and enabling analytics across enterprise datasets.
+
+**Highlights**
+- Workflow orchestration
+- Event streaming
+- Data processing pipelines
+- Scalable backend services
+- Analytics-ready architecture
+
+**Tech Stack**
+
+FastAPI • Temporal • Apache Kafka • PostgreSQL • MinIO • React • Docker
 
 ---
 
 ## 🌍 Enterprise Full Stack Applications
 
-Production-ready web applications with scalable frontend, backend, cloud deployment, and DevOps automation.
+Production-ready web applications with scalable frontend architecture, cloud-native backend services, and automated DevOps workflows.
+
+**Highlights**
+- Modern UI/UX
+- Scalable APIs
+- Cloud deployment
+- CI/CD automation
+- Enterprise security
 
 **Tech Stack**
 
 React • Next.js • Node.js • NestJS • Laravel • PostgreSQL • Docker
-
----
 
 # 📚 Areas of Interest
 

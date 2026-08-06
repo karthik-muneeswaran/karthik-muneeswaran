@@ -169,48 +169,50 @@ Fun Fact:
 
 ## 🚀 Enquiry Hub Backend
 
-Enterprise-grade backend platform featuring REST APIs, GraphQL, authentication, monitoring, and scalable architecture.
+Enterprise-grade backend platform featuring REST APIs, GraphQL, authentication, monitoring, and scalable cloud-native architecture.
 
 **Highlights**
 - REST & GraphQL APIs
 - Authentication & Authorization
 - Production Monitoring
+- Cloud-Native Deployment
 - Scalable Backend Architecture
 
 **Tech Stack**
 
-Node.js • Express • PostgreSQL • Redis • Docker • Grafana • JWT • Swagger
+Node.js • Express • PostgreSQL • Redis • Docker • Kubernetes • Grafana • JWT • Swagger
 
 ---
 
-## 📊 AI Auditing Platform
+## 🤖 AI Auditing Platform
 
-An enterprise AI-powered auditing platform for monitoring, validating, and analyzing data pipelines and AI workflows. Built with modern data engineering practices, RAG architecture, and AI agents to deliver intelligent insights and operational visibility.
+An enterprise AI-powered auditing platform that monitors, validates, and analyzes enterprise data pipelines and AI workflows. Built with modern data engineering practices, RAG architecture, and AI agents to deliver intelligent insights and operational visibility.
 
 **Highlights**
-- AI-powered auditing & analytics
-- RAG-based knowledge retrieval
-- Data Lake integration
-- AI Agent orchestration
-- Real-time monitoring & observability
+- AI-powered Auditing & Analytics
+- RAG-based Knowledge Retrieval
+- AI Agent Orchestration
+- Enterprise Data Lake Integration
+- Real-time Observability
+- Cloud-Native Deployment
 
 **Tech Stack**
 
-Databricks • FastAPI • Streamlit • Hermes Agent • Genie • Data Lake • Apache Kafka • RAG • Grafana • Prometheus • Tempo • Loki
+Databricks • FastAPI • Streamlit • Hermes Agent • Genie • Data Lake • Apache Kafka • RAG • Kubernetes • Grafana • Prometheus • Tempo • Loki
 
 ---
 
 ## 💬 Production-Ready Messaging Platform
 
-A scalable real-time messaging platform designed for production environments with high availability, event-driven communication, and mobile-first architecture.
+A highly scalable real-time messaging platform powering enterprise communication with event-driven architecture, reliable message delivery, and cloud-native deployment.
 
 **Highlights**
-- Real-time messaging
-- Push notifications
-- High availability
-- Event-driven architecture
-- Kubernetes deployment
-- Production-scale backend
+- Real-time Messaging
+- Push Notifications
+- Event-Driven Architecture
+- High Availability
+- Kubernetes Deployment
+- Production-scale Infrastructure
 
 **Tech Stack**
 
@@ -220,18 +222,19 @@ React Native • Laravel • Ably • PostgreSQL • MongoDB • Apache Kafka �
 
 ## 🏭 Data Engineering Platform
 
-A large-scale data engineering platform for orchestrating workflows, processing data pipelines, and enabling analytics across enterprise datasets.
+A large-scale data engineering platform for orchestrating workflows, processing enterprise data pipelines, and enabling analytics across distributed systems.
 
 **Highlights**
-- Workflow orchestration
-- Event streaming
-- Data processing pipelines
-- Scalable backend services
-- Analytics-ready architecture
+- Workflow Orchestration
+- Data Processing Pipelines
+- Event Streaming
+- Enterprise Analytics
+- Cloud-Native Infrastructure
+- Scalable Data Platform
 
 **Tech Stack**
 
-FastAPI • Temporal • Apache Kafka • PostgreSQL • MinIO • React • Docker
+React • FastAPI • Temporal • Apache Kafka • PostgreSQL • MinIO • Docker • Kubernetes
 
 ---
 
@@ -242,13 +245,14 @@ Production-ready web applications with scalable frontend architecture, cloud-nat
 **Highlights**
 - Modern UI/UX
 - Scalable APIs
-- Cloud deployment
-- CI/CD automation
-- Enterprise security
+- Cloud-Native Architecture
+- CI/CD Automation
+- Enterprise Security
+- Production Deployment
 
 **Tech Stack**
 
-React • Next.js • Node.js • NestJS • Laravel • PostgreSQL • Docker
+React • Next.js • Node.js • NestJS • Laravel • PostgreSQL • Docker • Kubernetes
 
 # 📚 Areas of Interest
 

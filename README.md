@@ -285,20 +285,6 @@ React • Next.js • Node.js • NestJS • Laravel • PostgreSQL • Docker �
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"/>
-
-</p>
-
----
-
 <p align="center">
 
 <i>"Build software that scales, systems that last, and teams that grow."</i>

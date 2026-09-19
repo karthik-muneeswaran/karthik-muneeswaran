@@ -286,7 +286,7 @@ React • Next.js • Angular • Vue.js • Node.js • NestJS • Spring Boot 
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://karthikmuneeswaran.com">
 <img src="https://skillicons.dev/icons?i=devto"/>
 </a>
 

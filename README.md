@@ -1,48 +1,49 @@
 <!-- Animated Banner -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Karthik%20Muneeswaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Scalable%20Systems%20%7C%20Backend%20Architecture%20%7C%20Cloud%20Native&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Karthik%20Muneeswaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Backend%20Systems%20%7C%20Cloud%20Native&descAlignY=58"/>
 </p>
 
 <h3 align="center">
-Team Lead • Full Stack Engineer • Backend Architect • Cloud Engineer
+Software Development Engineer • Full Stack Engineer • Backend Engineer • AI Engineer
 </h3>
 
 <p align="center">
-Building scalable products, distributed systems and cloud-native platforms.
+Building scalable applications, distributed systems, data platforms, and AI-powered products.
 </p>
 
 ---
+
 ## 🚀 About Me
 
 ```yaml
 Role:
-  Team Lead | Full Stack Engineer | Backend & Cloud Architect
+  Software Development Engineer | Full Stack & Backend Engineer
 
 Experience:
-  Designing scalable applications, leading engineering teams,
-  and building cloud-native platforms across web, backend,
-  distributed systems, and data engineering.
+  3.5+ years of experience building production-grade applications,
+  scalable backend systems, modern web platforms, and
+  cloud-native distributed systems.
 
 Focus:
-  - Backend Architecture
-  - Frontend Engineering
+  - Backend Engineering
+  - Full Stack Development
   - Distributed Systems
+  - System Design
   - Cloud Native Development
-  - Platform Engineering
   - Data Engineering
   - AI Engineering
 
 Currently Working On:
-  - Enterprise Backend Platforms
+  - Scalable Backend Services
+  - Distributed & Event-Driven Systems
   - Data Engineering Pipelines
-  - Event-Driven Systems
   - AI & Multi-Agent Applications
-  - Lakehouse Architecture
-  - Cloud Infrastructure
+  - RAG & Intelligent Search Systems
+  - Cloud-Native Infrastructure
 
 Fun Fact:
-  "I enjoy designing scalable systems more than writing CRUD APIs."
+  "I enjoy solving scalability and distributed-system problems more than writing CRUD APIs."
 ```
 
 ---
@@ -53,7 +54,7 @@ Fun Fact:
 
 ### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 
 ### 🎨 Frontend
 
@@ -61,7 +62,7 @@ Fun Fact:
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,spring" />
 
 ### 🗄️ Databases
 
@@ -91,16 +92,18 @@ Fun Fact:
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white"/>
 <img src="https://img.shields.io/badge/CDC-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Event%20Streaming-6F42C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event%20Driven-6F42C1?style=for-the-badge"/>
 </p>
 
 ### 🤖 AI Engineering
 
 <p>
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Observability-F59E0B?style=for-the-badge"/>
 </p>
 
 ### 📈 Observability & Monitoring
@@ -109,8 +112,6 @@ Fun Fact:
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tempo-6E44FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-5A2CA0?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
@@ -118,10 +119,10 @@ Fun Fact:
 ### 🧪 Testing
 
 <p>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unit%20Testing-C21325?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Integration%20Testing-2EAD33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/E2E%20Testing-17202C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white"/>
 </p>
 
 </div>
@@ -130,144 +131,150 @@ Fun Fact:
 
 # 🚀 What I Build
 
-🏛 Enterprise Backend Platforms
+🏛 Scalable Backend Systems
 
-☁️ Cloud-Native Applications
+🌐 Production-Ready Full Stack Applications
 
 ⚡ High-Performance REST & GraphQL APIs
 
-📊 Data Engineering Pipelines
+📡 Distributed & Event-Driven Systems
 
-🤖 AI & Multi-Agent Applications
+📊 Data Engineering & ETL/ELT Pipelines
 
-📡 Event-Driven Systems
+🤖 AI, RAG & Multi-Agent Applications
 
-🔄 Workflow Automation Platforms
+🔄 Reliable Workflow Automation Systems
 
-📈 Observability & Monitoring Solutions
+☁️ Cloud-Native Applications
 
-🌐 Modern Full Stack Web Applications
+📈 Observable & Resilient Production Systems
 
 🚀 Developer Platforms & Internal Tools
 
 # ⚡ Current Focus
 
 ```text
-🟢 Backend Architecture
-🟢 Frontend Engineering
+🟢 Data Structures & Algorithms
+🟢 System Design
+🟢 Backend Engineering
 🟢 Distributed Systems
-🟢 Platform Engineering
 🟢 Cloud Native Applications
 🟢 Data Engineering
-🟢 AI & Multi-Agent Systems
+🟢 RAG & AI Agents
 🟢 Event-Driven Architecture
 🟢 Kubernetes
-🟢 Observability
+🟢 Observability & Reliability
 ```
 
 # 📂 Featured Projects
 
-## 🚀 Enquiry Hub Backend
+## 🚀 Data Engineering Platform
 
-Enterprise-grade backend platform featuring REST APIs, GraphQL, authentication, monitoring, and scalable cloud-native architecture.
+A scalable data platform for orchestrating long-running workflows, processing enterprise data pipelines, and enabling reliable distributed data processing.
 
 **Highlights**
-- REST & GraphQL APIs
-- Authentication & Authorization
-- Production Monitoring
-- Cloud-Native Deployment
-- Scalable Backend Architecture
+
+* ETL / ELT Data Pipelines
+* Distributed Workflow Orchestration
+* Event-Driven Processing
+* Reliable Background Workflows
+* Scalable Backend Services
+* Cloud-Native Deployment
 
 **Tech Stack**
 
-Node.js • Express • PostgreSQL • Redis • Docker • Kubernetes • Grafana • JWT • Swagger
+Python • FastAPI • Temporal • Apache Kafka • PostgreSQL • Docker • Kubernetes
 
 ---
 
-## 🤖 AI Auditing Platform
+## 🤖 Advanced Multi-Agent RAG Platform
 
-An enterprise AI-powered auditing platform that monitors, validates, and analyzes enterprise data pipelines and AI workflows. Built with modern data engineering practices, RAG architecture, and AI agents to deliver intelligent insights and operational visibility.
+An AI engineering platform combining retrieval-augmented generation, intelligent agents, tool execution, guardrails, and observability to build reliable AI-powered workflows.
 
 **Highlights**
-- AI-powered Auditing & Analytics
-- RAG-based Knowledge Retrieval
-- AI Agent Orchestration
-- Enterprise Data Lake Integration
-- Real-time Observability
-- Cloud-Native Deployment
+
+* Multi-Agent Orchestration
+* Retrieval-Augmented Generation
+* Hybrid Search & Reranking
+* Tool / Function Calling
+* AI Guardrails
+* LLM Evaluation & Observability
 
 **Tech Stack**
 
-Databricks • FastAPI • Streamlit • Hermes Agent • Genie • Data Lake • Apache Kafka • RAG • Kubernetes • Grafana • Prometheus • Tempo • Loki
+Python • FastAPI • LangChain • LangGraph • RAG • Vector Databases • Langfuse • LLMs
 
 ---
 
 ## 💬 Production-Ready Messaging Platform
 
-A highly scalable real-time messaging platform powering enterprise communication with event-driven architecture, reliable message delivery, and cloud-native deployment.
+A scalable real-time communication platform designed around reliable messaging, asynchronous processing, and event-driven architecture.
 
 **Highlights**
-- Real-time Messaging
-- Push Notifications
-- Event-Driven Architecture
-- High Availability
-- Kubernetes Deployment
-- Production-scale Infrastructure
+
+* Real-time Communication
+* Reliable Message Delivery
+* Event-Driven Architecture
+* Asynchronous Processing
+* Scalable Backend Services
+* Production Deployment
 
 **Tech Stack**
 
-React Native • Laravel • Ably • PostgreSQL • MongoDB • Apache Kafka • Kubernetes
+React Native • Laravel • PostgreSQL • MongoDB • Apache Kafka • Kubernetes
 
 ---
 
-## 🏭 Data Engineering Platform
+## ⚙️ Scalable Backend Platform
 
-A large-scale data engineering platform for orchestrating workflows, processing enterprise data pipelines, and enabling analytics across distributed systems.
+A production-grade backend platform designed around secure APIs, resilient asynchronous processing, distributed services, and production observability.
 
 **Highlights**
-- Workflow Orchestration
-- Data Processing Pipelines
-- Event Streaming
-- Enterprise Analytics
-- Cloud-Native Infrastructure
-- Scalable Data Platform
+
+* REST & GraphQL APIs
+* Authentication & RBAC
+* Asynchronous Processing
+* Distributed Architecture
+* Production Observability
+* Cloud-Native Deployment
 
 **Tech Stack**
 
-React • FastAPI • Temporal • Apache Kafka • PostgreSQL • MinIO • Docker • Kubernetes
+Node.js • NestJS • PostgreSQL • Redis • Kafka • Docker • Kubernetes • AWS
 
 ---
 
 ## 🌍 Enterprise Full Stack Applications
 
-Production-ready web applications with scalable frontend architecture, cloud-native backend services, and automated DevOps workflows.
+Production-ready web applications built with modern frontend frameworks, scalable backend services, secure APIs, and automated deployment workflows.
 
 **Highlights**
-- Modern UI/UX
-- Scalable APIs
-- Cloud-Native Architecture
-- CI/CD Automation
-- Enterprise Security
-- Production Deployment
+
+* Modern Frontend Architecture
+* Scalable Backend APIs
+* Authentication & Authorization
+* CI/CD Automation
+* Cloud Infrastructure
+* Production Deployment
 
 **Tech Stack**
 
-React • Next.js • Node.js • NestJS • Laravel • PostgreSQL • Docker • Kubernetes
+React • Next.js • Angular • Vue.js • Node.js • NestJS • Spring Boot • PostgreSQL • Docker • Kubernetes
 
 # 📚 Areas of Interest
 
-- Backend Engineering
-- Frontend Architecture
-- Distributed Systems
-- Platform Engineering
-- Cloud Native Development
-- Data Engineering
-- AI Agents & Multi-Agent Systems
-- Event-Driven Architecture
-- System Design
-- DevOps Automation
-- Observability & Monitoring
-- Scalable APIs
+* Software Engineering
+* Backend Engineering
+* Full Stack Development
+* Data Structures & Algorithms
+* System Design
+* Distributed Systems
+* Event-Driven Architecture
+* Cloud Native Development
+* Data Engineering
+* AI Agents & Multi-Agent Systems
+* RAG & Intelligent Retrieval
+* Observability & Reliability Engineering
 
 ---
 
@@ -287,7 +294,7 @@ React • Next.js • Node.js • NestJS • Laravel • PostgreSQL • Docker �
 
 <p align="center">
 
-<i>"Build software that scales, systems that last, and teams that grow."</i>
+<i>"Build reliable software, design scalable systems, and solve problems that matter."</i>
 
 </p>
 
